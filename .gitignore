@@ -1,2 +1,6 @@
 /.idea/
 /Clean Architecture.iml
+/data/data.iml
+/domain/domain.iml
+/presentation/presentation.iml
+/.gradle/buildOutputCleanup/
